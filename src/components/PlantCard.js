@@ -1,3 +1,4 @@
+/* These files are copied from the official solution. */
 import React, { useState } from "react";
 
 function PlantCard({ plant, onDeletePlant, onUpdatePlant }) {
